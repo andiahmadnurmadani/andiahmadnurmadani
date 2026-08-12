@@ -52,17 +52,6 @@ I focus on **Backend Development, System Administration, Cloud Infrastructure, a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 🚀 Featured Project
-
-### ASCode
-A web-based coding learning platform designed to help beginners understand programming fundamentals through interactive learning.
-
-Focus:
-- Frontend fundamentals
-- Interactive learning experience
-- Beginner-friendly programming environment
 
 ---
 
@@ -74,14 +63,5 @@ Focus:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andiahmadnurmadani&theme=react&hide_border=false)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=andiahmadnurmadani&theme=react&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andiahmadnurmadani&theme=react&layout=compact)
-
----
 
 > Building systems, writing code, and keeping servers alive.

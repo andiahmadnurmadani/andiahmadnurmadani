@@ -12,7 +12,7 @@ nmd@kroombox:~$ neofetch
  | :::::::::::  [##]   o o |   Languages TypeScript 27%, JavaScript 22%, Python 20%
  +-------------------------+   Commits   231 in the last 12 months, 375 contributions
  | :::::::::::  [##]   o o |   Streak    7 days now, best 7
- +-------------------------+   Last push printer-wireless on 2026-10-13
+ +-------------------------+   Last push kroombox-monitoring on 2026-10-13
                                Newest    TermX (2026-10-12)
 ```
 
@@ -23,7 +23,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 | Project | What it does | Stack | Status |
 |:--|:--|:-:|:--|
 | **[TermX](https://github.com/andiahmadnurmadani/TermX)** | SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor. | `Kotlin` | 🟢 active<br><sub>★ 1 · 2026‑10‑12</sub> |
-| **[Kroombox Monitoring](https://github.com/andiahmadnurmadani/uptime-monitor)** | Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates. | `TypeScript` | 🟢 active<br><sub>★ 0 · 2026‑10‑13</sub> |
+| **[Kroombox Monitoring](https://github.com/andiahmadnurmadani/kroombox-monitoring)** | Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates. | `TypeScript` | 🟢 active<br><sub>★ 0 · 2026‑10‑13</sub> |
 | **[KroomBase](https://kroombase.kroombox.com)** | Postgres per project, a REST endpoint for every table, file storage and an MCP server for AI tools. | `TypeScript` | 🟢 live<br><sub>kroombase.kroombox.com</sub> |
 
 ## `$ ls -t ~/repos | head`
@@ -57,14 +57,14 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 ## `$ tail -f activity.log`
 
 ```text
-2026-10-13 07:05  push     uptime-monitor          2 commits to main
+2026-10-13 15:35  push     andiahmadnurmadani      1 commit to main
+2026-10-13 07:05  push     kroombox-monitoring     2 commits to main
 2026-10-12 17:03  push     TermX                   3 commits to main
 2026-10-12 06:01  public   TermX                   made public
 2026-10-11 10:44  push     RAG-JEV                 1 commit to main
 2026-10-10 23:55  push     RAG-JEV                 10 commits to main
 2026-10-09 14:00  push     RAG-JEV                 2 commits to main
-2026-10-08 22:01  public   uptime-monitor          made public
-2026-10-07 19:28  push     RAG-JEV                 1 commit to main
+2026-10-08 22:01  public   kroombox-monitoring     made public
 ```
 
 ## 💾 Disk Sweeper
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-13 15:35 WIB.</sub>
+<sub>Last changed 2026-10-13 15:48 WIB.</sub>

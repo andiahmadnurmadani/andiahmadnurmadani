@@ -14,7 +14,7 @@
   ],
   "featured": [
     { "repo": "TermX", "title": "TermX", "blurb": "SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor." },
-    { "repo": "uptime-monitor", "title": "Kroombox Monitoring", "blurb": "Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates." },
+    { "repo": "kroombox-monitoring", "title": "Kroombox Monitoring", "blurb": "Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates." },
     { "title": "KroomBase", "url": "https://kroombase.kroombox.com", "blurb": "Postgres per project, a REST endpoint for every table, file storage and an MCP server for AI tools.", "language": "TypeScript", "languageColor": "#3178c6", "status": "live" }
   ],
   "hideRepos": ["andiahmadnurmadani"],

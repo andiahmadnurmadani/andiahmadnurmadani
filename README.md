@@ -10,7 +10,7 @@ andi@kroombox:~$ neofetch
                                Uptime    4y 4m on GitHub
  +-------------------------+   Repos     30 public, 3 stars, 0 followers
  | :::::::::::  [##]   o o |   Languages TypeScript 27%, JavaScript 22%, Python 20%
- +-------------------------+   Commits   335 in the last 12 months, 374 contributions
+ +-------------------------+   Commits   231 in the last 12 months, 374 contributions
  | :::::::::::  [##]   o o |   Streak    6 days now, best 6
  +-------------------------+   Last push printer-wireless on 2026-10-13
                                Newest    TermX (2026-10-12)
@@ -52,7 +52,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Contributions | Commits | Pull requests | Current streak | Longest streak | Busiest day | Favourite weekday |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **374** | 335 | 1 | 6 days | 6 days | 2026-10-11 (32) | Thursday |
+| **374** | 231 | 1 | 6 days | 6 days | 2026-10-11 (33) | Thursday |
 
 ## `$ tail -f activity.log`
 
@@ -104,4 +104,4 @@ A fresh disk. Your first click is always safe.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-13 14:28 WIB.</sub>
+<sub>Last changed 2026-10-13 14:30 WIB.</sub>

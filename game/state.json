@@ -1,20 +1,83 @@
 {
   "board": {
-    "status": "new",
-    "mines": [],
-    "revealed": [],
+    "status": "playing",
+    "mines": [
+      0,
+      6,
+      15,
+      31,
+      37,
+      40,
+      47,
+      50,
+      53,
+      59
+    ],
+    "revealed": [
+      27,
+      18,
+      19,
+      20,
+      26,
+      28,
+      34,
+      35,
+      36,
+      9,
+      10,
+      11,
+      17,
+      25,
+      12,
+      13,
+      21,
+      29,
+      33,
+      41,
+      42,
+      43,
+      44,
+      1,
+      2,
+      3,
+      4,
+      8,
+      16,
+      24,
+      32,
+      5,
+      14,
+      22,
+      30
+    ],
     "hit": null,
-    "moves": 0,
-    "players": [],
-    "startedAt": null
+    "moves": 1,
+    "players": [
+      "andiahmadnurmadani"
+    ],
+    "startedAt": "2026-10-13T07:32:14.134Z"
   },
   "stats": {
-    "games": 0,
+    "games": 1,
     "wins": 0,
     "losses": 0,
-    "moves": 0,
-    "players": {}
+    "moves": 1,
+    "players": {
+      "andiahmadnurmadani": 1
+    }
   },
-  "recent": [],
-  "last": null
+  "recent": [
+    {
+      "login": "andiahmadnurmadani",
+      "cell": "D4",
+      "result": "clean",
+      "at": "2026-10-13T07:32:14.134Z"
+    }
+  ],
+  "last": {
+    "login": "andiahmadnurmadani",
+    "cell": "D4",
+    "result": "clean",
+    "at": "2026-10-13T07:32:14.134Z"
+  }
 }

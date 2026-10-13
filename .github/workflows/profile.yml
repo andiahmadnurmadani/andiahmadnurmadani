@@ -32,7 +32,7 @@ jobs:
           node-version: 22
 
       - name: Test game logic
-        run: node --test test/
+        run: node --test test/*.test.mjs
 
       - name: Play pending moves
         run: node scripts/game.mjs process

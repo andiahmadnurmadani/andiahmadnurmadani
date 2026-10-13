@@ -1,0 +1,48 @@
+{
+  "login": "andiahmadnurmadani",
+  "name": "Andi Ahmad Nurmadani",
+  "host": "kroombox",
+  "role": "SysAdmin & Web Developer",
+  "study": "D3 Information Systems, Telkom University",
+  "location": "Indonesia",
+  "timezone": "Asia/Jakarta",
+  "tagline": "Building systems, writing code, and keeping servers alive.",
+  "about": [
+    "I run Linux servers, NAS boxes and self-hosted services, and build the tools I wish I had while doing it.",
+    "Most of what I make ends up open source: an SSH client for Android, a monitoring dashboard, and a small Postgres backend platform."
+  ],
+  "featured": [
+    { "repo": "TermX", "title": "TermX", "blurb": "SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor." },
+    { "repo": "uptime-monitor", "title": "Kroombox Monitoring", "blurb": "Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates." },
+    { "title": "KroomBase", "url": "https://kroombase.kroombox.com", "blurb": "Postgres per project, a REST endpoint for every table, file storage and an MCP server for AI tools.", "language": "TypeScript", "languageColor": "#3178c6", "status": "live" }
+  ],
+  "hideRepos": ["andiahmadnurmadani"],
+  "excludeLanguages": [],
+  "stack": [
+    ["Linux", "FCC624", "linux", "black"],
+    ["Nginx", "009639", "nginx", "white"],
+    ["Docker", "2496ED", "docker", "white"],
+    ["Cloudflare", "F38020", "cloudflare", "white"],
+    ["Node.js", "5FA04E", "nodedotjs", "white"],
+    ["TypeScript", "3178C6", "typescript", "white"],
+    ["React", "20232A", "react", "61DAFB"],
+    ["Next.js", "000000", "nextdotjs", "white"],
+    ["Tailwind CSS", "06B6D4", "tailwindcss", "white"],
+    ["Laravel", "FF2D20", "laravel", "white"],
+    ["PHP", "777BB4", "php", "white"],
+    ["Kotlin", "7F52FF", "kotlin", "white"],
+    ["PostgreSQL", "4169E1", "postgresql", "white"],
+    ["MySQL", "4479A1", "mysql", "white"],
+    ["MongoDB", "47A248", "mongodb", "white"],
+    ["SQLite", "003B57", "sqlite", "white"],
+    ["Git", "F05032", "git", "white"],
+    ["Postman", "FF6C37", "postman", "white"],
+    ["Figma", "F24E1E", "figma", "white"]
+  ],
+  "links": [
+    ["Instagram", "https://instagram.com/andi.nmd", "E4405F", "instagram"],
+    ["Email", "mailto:andiahmadnurmadani15@gmail.com", "D14836", "gmail"],
+    ["KroomBase", "https://kroombase.kroombox.com", "6366F1", "postgresql"]
+  ],
+  "game": { "cols": 8, "rows": 8, "mines": 10 }
+}

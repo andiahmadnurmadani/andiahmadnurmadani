@@ -1,0 +1,63 @@
+name: profile
+
+# One job does everything that writes to the repo (game moves and the README refresh), so two runs
+# never race on a push. Runs that get cancelled while queued lose nothing: each run sweeps every
+# open `disk|…` issue, not only the one that triggered it.
+on:
+  schedule:
+    - cron: "23 * * * *" # hourly: picks up new repos, pushes, stars and streaks
+  issues:
+    types: [opened]
+  push:
+    branches: [main]
+    paths: [profile.config.json, "scripts/**", ".github/workflows/profile.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: profile-write
+  cancel-in-progress: false
+
+jobs:
+  build:
+    if: github.event_name != 'issues' || startsWith(github.event.issue.title, 'disk|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test game logic
+        run: node --test test/
+
+      - name: Play pending moves
+        run: node scripts/game.mjs process
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Build README
+        run: node scripts/build-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets game
+          if git diff --cached --quiet; then echo "nothing to commit"; exit 0; fi
+          git commit -m "chore(profile): refresh"
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase
+          done
+          exit 1
+
+      - name: Answer moves
+        run: node scripts/game.mjs reply
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

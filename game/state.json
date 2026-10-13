@@ -1,0 +1,20 @@
+{
+  "board": {
+    "status": "new",
+    "mines": [],
+    "revealed": [],
+    "hit": null,
+    "moves": 0,
+    "players": [],
+    "startedAt": null
+  },
+  "stats": {
+    "games": 0,
+    "wins": 0,
+    "losses": 0,
+    "moves": 0,
+    "players": {}
+  },
+  "recent": [],
+  "last": null
+}

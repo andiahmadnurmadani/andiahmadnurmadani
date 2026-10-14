@@ -8,7 +8,7 @@ nmd@kroombox:~$ neofetch
  / /|  / /  / / /_/ /          Study     D3 Information Systems, Telkom University
 /_/ |_/_/  /_/_____/           Location  Indonesia
                                Uptime    4y 4m on GitHub
- +-------------------------+   Repos     30 public, 3 stars, 0 followers
+ +-------------------------+   Repos     30 public, 4 stars, 0 followers
  | :::::::::::  [##]   o o |   Languages TypeScript 27%, JavaScript 22%, Python 20%
  +-------------------------+   Commits   231 in the last 12 months, 375 contributions
  | :::::::::::  [##]   o o |   Streak    7 days now, best 7
@@ -22,7 +22,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Project | What it does | Stack | Status |
 |:--|:--|:-:|:--|
-| **[TermX](https://github.com/andiahmadnurmadani/TermX)** | SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor. | `Kotlin` | 🟢 active<br><sub>★ 1 · 2026‑10‑12</sub> |
+| **[TermX](https://github.com/andiahmadnurmadani/TermX)** | SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor. | `Kotlin` | 🟢 active<br><sub>★ 2 · 2026‑10‑12</sub> |
 | **[Kroombox Monitoring](https://github.com/andiahmadnurmadani/kroombox-monitoring)** | Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates. | `TypeScript` | 🟢 active<br><sub>★ 0 · 2026‑10‑13</sub> |
 | **[KroomBase](https://kroombase.kroombox.com)** | Postgres per project, a REST endpoint for every table, file storage and an MCP server for AI tools. | `TypeScript` | 🟢 live<br><sub>kroombase.kroombox.com</sub> |
 
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-13 15:48 WIB.</sub>
+<sub>Last changed 2026-10-14 07:23 WIB.</sub>

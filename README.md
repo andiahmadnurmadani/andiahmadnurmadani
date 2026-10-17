@@ -11,7 +11,7 @@ nmd@kroombox:~$ neofetch
  +-------------------------+   Repos     31 public, 4 stars, 0 followers
  | :::::::::::  [##]   o o |   Languages TypeScript 33%, JavaScript 21%, Python 17%
  +-------------------------+   Commits   233 in the last 12 months, 378 contributions
- | :::::::::::  [##]   o o |   Streak    1 day now, best 7
+ | :::::::::::  [##]   o o |   Streak    0 days now, best 7
  +-------------------------+   Last push sapawarga on 2026-10-16
                                Newest    sapawarga (2026-10-16)
 ```
@@ -52,7 +52,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Contributions | Commits | Pull requests | Current streak | Longest streak | Busiest day | Favourite weekday |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **378** | 233 | 1 | 1 day | 7 days | 2026-10-11 (33) | Thursday |
+| **378** | 233 | 1 | 0 days | 7 days | 2026-10-11 (33) | Thursday |
 
 ## `$ tail -f activity.log`
 
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-17 05:53 WIB.</sub>
+<sub>Last changed 2026-10-18 00:17 WIB.</sub>

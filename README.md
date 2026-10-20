@@ -12,7 +12,7 @@ nmd@kroombox:~$ neofetch
  | :::::::::::  [##]   o o |   Languages TypeScript 33%, JavaScript 21%, Python 17%
  +-------------------------+   Commits   233 in the last 12 months, 378 contributions
  | :::::::::::  [##]   o o |   Streak    0 days now, best 7
- +-------------------------+   Last push sapawarga on 2026-10-16
+ +-------------------------+   Last push RAG-JEV on 2026-10-20
                                Newest    sapawarga (2026-10-16)
 ```
 
@@ -22,7 +22,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Project | What it does | Stack | Status |
 |:--|:--|:-:|:--|
-| **[TermX](https://github.com/andiahmadnurmadani/TermX)** | SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor. | `Kotlin` | 🟢 active<br><sub>★ 3 · 2026‑10‑12</sub> |
+| **[TermX](https://github.com/andiahmadnurmadani/TermX)** | SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor. | `Kotlin` | 🟡 maintained<br><sub>★ 3 · 2026‑10‑12</sub> |
 | **[Kroombox Monitoring](https://github.com/andiahmadnurmadani/kroombox-monitoring)** | Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates. | `TypeScript` | 🟢 active<br><sub>★ 0 · 2026‑10‑13</sub> |
 | **[KroomBase](https://kroombase.kroombox.com)** | Postgres per project, a REST endpoint for every table, file storage and an MCP server for AI tools. | `TypeScript` | 🟢 live<br><sub>kroombase.kroombox.com</sub> |
 
@@ -32,9 +32,9 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Repository | Description | Language | Last push |
 |:--|:--|:-:|:-:|
+| **[RAG-JEV](https://github.com/andiahmadnurmadani/RAG-JEV)** | — | `Python` | 2026‑10‑20 |
 | **[sapawarga](https://github.com/andiahmadnurmadani/sapawarga)** | PKM Hallowarga - web app (React/Vite + Node.js) | `TypeScript` | 2026‑10‑16 |
 | **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑10‑15 |
-| **[RAG-JEV](https://github.com/andiahmadnurmadani/RAG-JEV)** | — | `Python` | 2026‑10‑11 |
 | **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑06 |
 | **[pos-app-migrations](https://github.com/andiahmadnurmadani/pos-app-migrations)** | Kroombase schema migrations for pos-app (database only, not application source) | — | 2026‑09‑23 |
 | **[migration-kroombase](https://github.com/andiahmadnurmadani/migration-kroombase)** | — | — | 2026‑09‑13 |
@@ -57,14 +57,14 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 ## `$ tail -f activity.log`
 
 ```text
+2026-10-20 15:03  push     RAG-JEV                 1 commit to main
 2026-10-16 13:38  push     sapawarga               1 commit to main
 2026-10-16 13:31  public   sapawarga               made public
 2026-10-13 15:48  push     andiahmadnurmadani      1 commit to main
 2026-10-13 15:47  push     kroombox-monitoring     1 commit to main
 2026-10-13 15:35  push     andiahmadnurmadani      3 commits to main
 2026-10-13 07:05  push     kroombox-monitoring     3 commits to main
-2026-10-12 17:47  push     TermX                   4 commits to main
-2026-10-12 06:01  public   TermX                   made public
+2026-10-12 17:47  push     TermX                   1 commit to main
 ```
 
 ## 💾 Disk Sweeper
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-18 05:25 WIB.</sub>
+<sub>Last changed 2026-10-20 18:49 WIB.</sub>

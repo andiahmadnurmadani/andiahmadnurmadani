@@ -8,12 +8,12 @@ nmd@kroombox:~$ neofetch
  / /|  / /  / / /_/ /          Study     D3 Information Systems, Telkom University
 /_/ |_/_/  /_/_____/           Location  Indonesia
                                Uptime    4y 4m on GitHub
- +-------------------------+   Repos     31 public, 5 stars, 0 followers
- | :::::::::::  [##]   o o |   Languages TypeScript 33%, JavaScript 21%, Python 17%
- +-------------------------+   Commits   233 in the last 12 months, 378 contributions
- | :::::::::::  [##]   o o |   Streak    0 days now, best 7
- +-------------------------+   Last push RAG-JEV on 2026-10-20
-                               Newest    sapawarga (2026-10-16)
+ +-------------------------+   Repos     32 public, 6 stars, 0 followers
+ | :::::::::::  [##]   o o |   Languages TypeScript 34%, JavaScript 19%, Python 17%
+ +-------------------------+   Commits   233 in the last 12 months, 379 contributions
+ | :::::::::::  [##]   o o |   Streak    1 day now, best 7
+ +-------------------------+   Last push TermX-Desktop on 2026-10-21
+                               Newest    TermX-Desktop (2026-10-21)
 ```
 
 I run Linux servers, NAS boxes and self-hosted services, and build the tools I wish I had while doing it. Most of what I make ends up open source: an SSH client for Android, a monitoring dashboard, and a small Postgres backend platform.
@@ -32,16 +32,16 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Repository | Description | Language | Last push |
 |:--|:--|:-:|:-:|
+| **[TermX-Desktop](https://github.com/andiahmadnurmadani/TermX-Desktop)** | Connect. Automate. Operate. Free, open-source SSH client and ops workspace for macOS, Windows and Linux (Tauri + Rust). | `TypeScript` | 2026‑10‑21 |
+| **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑21 |
 | **[RAG-JEV](https://github.com/andiahmadnurmadani/RAG-JEV)** | — | `Python` | 2026‑10‑20 |
 | **[sapawarga](https://github.com/andiahmadnurmadani/sapawarga)** | PKM Hallowarga - web app (React/Vite + Node.js) | `TypeScript` | 2026‑10‑16 |
 | **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑10‑15 |
-| **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑06 |
 | **[pos-app-migrations](https://github.com/andiahmadnurmadani/pos-app-migrations)** | Kroombase schema migrations for pos-app (database only, not application source) | — | 2026‑09‑23 |
-| **[migration-kroombase](https://github.com/andiahmadnurmadani/migration-kroombase)** | — | — | 2026‑09‑13 |
 
 ## `$ du -sh --by-language`
 
-<img src="assets/languages.svg" alt="Languages by code size: TypeScript 33%, JavaScript 21%, Python 17%, Kotlin 7%, Go 5%, PHP 5%, Blade 4%, Other 7%" width="100%">
+<img src="assets/languages.svg" alt="Languages by code size: TypeScript 34%, JavaScript 19%, Python 17%, Kotlin 7%, Go 5%, PHP 5%, Blade 4%, Other 10%" width="100%">
 
 ## `$ git log --since=1.year`
 
@@ -52,19 +52,19 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Contributions | Commits | Pull requests | Current streak | Longest streak | Busiest day | Favourite weekday |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **378** | 233 | 1 | 0 days | 7 days | 2026-10-11 (33) | Thursday |
+| **379** | 233 | 1 | 1 day | 7 days | 2026-10-11 (33) | Thursday |
 
 ## `$ tail -f activity.log`
 
 ```text
+2026-10-21 11:52  push     TermX-Desktop           2 commits to main
+2026-10-21 09:45  push     scm-bestari             1 commit to feat/usability-cms-trace-update
 2026-10-20 15:03  push     RAG-JEV                 1 commit to main
 2026-10-16 13:38  push     sapawarga               1 commit to main
 2026-10-16 13:31  public   sapawarga               made public
 2026-10-13 15:48  push     andiahmadnurmadani      1 commit to main
 2026-10-13 15:47  push     kroombox-monitoring     1 commit to main
-2026-10-13 15:35  push     andiahmadnurmadani      3 commits to main
-2026-10-13 07:05  push     kroombox-monitoring     3 commits to main
-2026-10-12 17:47  push     TermX                   1 commit to main
+2026-10-13 15:35  push     andiahmadnurmadani      1 commit to main
 ```
 
 ## 💾 Disk Sweeper
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-20 18:49 WIB.</sub>
+<sub>Last changed 2026-10-21 11:58 WIB.</sub>

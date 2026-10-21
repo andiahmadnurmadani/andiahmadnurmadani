@@ -9,7 +9,7 @@ nmd@kroombox:~$ neofetch
 /_/ |_/_/  /_/_____/           Location  Indonesia
                                Uptime    4y 4m on GitHub
  +-------------------------+   Repos     32 public, 6 stars, 0 followers
- | :::::::::::  [##]   o o |   Languages TypeScript 34%, JavaScript 19%, Python 17%
+ | :::::::::::  [##]   o o |   Languages TypeScript 35%, JavaScript 19%, Python 16%
  +-------------------------+   Commits   233 in the last 12 months, 379 contributions
  | :::::::::::  [##]   o o |   Streak    1 day now, best 7
  +-------------------------+   Last push TermX-Desktop on 2026-10-21
@@ -23,7 +23,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 | Project | What it does | Stack | Status |
 |:--|:--|:-:|:--|
 | **[TermX](https://github.com/andiahmadnurmadani/TermX)** | SSH client for Android with persistent tmux sessions, auto-reconnect, SFTP and a live server monitor. | `Kotlin` | 🟡 maintained<br><sub>★ 3 · 2026‑10‑12</sub> |
-| **[Kroombox Monitoring](https://github.com/andiahmadnurmadani/kroombox-monitoring)** | Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates. | `TypeScript` | 🟢 active<br><sub>★ 0 · 2026‑10‑13</sub> |
+| **[Kroombox Monitoring](https://github.com/andiahmadnurmadani/kroombox-monitoring)** | Self-hosted dashboard for websites, servers and NAS, with retries before alerts and one-click updates. | `TypeScript` | 🟡 maintained<br><sub>★ 0 · 2026‑10‑13</sub> |
 | **[KroomBase](https://kroombase.kroombox.com)** | Postgres per project, a REST endpoint for every table, file storage and an MCP server for AI tools. | `TypeScript` | 🟢 live<br><sub>kroombase.kroombox.com</sub> |
 
 ## `$ ls -t ~/repos | head`
@@ -41,7 +41,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 ## `$ du -sh --by-language`
 
-<img src="assets/languages.svg" alt="Languages by code size: TypeScript 34%, JavaScript 19%, Python 17%, Kotlin 7%, Go 5%, PHP 5%, Blade 4%, Other 10%" width="100%">
+<img src="assets/languages.svg" alt="Languages by code size: TypeScript 35%, JavaScript 19%, Python 16%, Kotlin 7%, Go 5%, PHP 5%, Blade 4%, Other 10%" width="100%">
 
 ## `$ git log --since=1.year`
 
@@ -57,7 +57,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 ## `$ tail -f activity.log`
 
 ```text
-2026-10-21 11:52  push     TermX-Desktop           2 commits to main
+2026-10-21 13:50  push     TermX-Desktop           3 commits to main
 2026-10-21 09:45  push     scm-bestari             1 commit to feat/usability-cms-trace-update
 2026-10-20 15:03  push     RAG-JEV                 1 commit to main
 2026-10-16 13:38  push     sapawarga               1 commit to main
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-21 11:58 WIB.</sub>
+<sub>Last changed 2026-10-21 17:16 WIB.</sub>

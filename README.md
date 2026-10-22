@@ -12,7 +12,7 @@ nmd@kroombox:~$ neofetch
  | :::::::::::  [##]   o o |   Languages TypeScript 35%, JavaScript 19%, Python 16%
  +-------------------------+   Commits   233 in the last 12 months, 379 contributions
  | :::::::::::  [##]   o o |   Streak    1 day now, best 7
- +-------------------------+   Last push TermX-Desktop on 2026-10-22
+ +-------------------------+   Last push scm-bestari on 2026-10-22
                                Newest    TermX-Desktop (2026-10-21)
 ```
 
@@ -32,8 +32,8 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Repository | Description | Language | Last push |
 |:--|:--|:-:|:-:|
+| **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑22 |
 | **[TermX-Desktop](https://github.com/andiahmadnurmadani/TermX-Desktop)** | Connect. Automate. Operate. Free, open-source SSH client and ops workspace for macOS, Windows and Linux (Tauri + Rust). | `TypeScript` | 2026‑10‑22 |
-| **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑21 |
 | **[RAG-JEV](https://github.com/andiahmadnurmadani/RAG-JEV)** | — | `Python` | 2026‑10‑20 |
 | **[sapawarga](https://github.com/andiahmadnurmadani/sapawarga)** | PKM Hallowarga - web app (React/Vite + Node.js) | `TypeScript` | 2026‑10‑16 |
 | **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑10‑15 |
@@ -57,14 +57,14 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 ## `$ tail -f activity.log`
 
 ```text
-2026-10-21 13:50  push     TermX-Desktop           3 commits to main
+2026-10-22 14:20  push     scm-bestari             3 commits to feat/usability-cms-trace-update
+2026-10-22 10:29  push     TermX-Desktop           1 commit to main
+2026-10-22 10:11  push     scm-bestari             1 commit to feat/usability-cms-trace-update
+2026-10-22 08:37  push     TermX-Desktop           1 commit to main
+2026-10-21 13:50  push     TermX-Desktop           5 commits to main
 2026-10-21 10:17  push     scm-bestari             2 commits to feat/usability-cms-trace-update
 2026-10-20 15:03  push     RAG-JEV                 1 commit to main
 2026-10-16 13:38  push     sapawarga               1 commit to main
-2026-10-16 13:31  public   sapawarga               made public
-2026-10-13 15:48  push     andiahmadnurmadani      1 commit to main
-2026-10-13 15:47  push     kroombox-monitoring     1 commit to main
-2026-10-13 15:35  push     andiahmadnurmadani      1 commit to main
 ```
 
 ## 💾 Disk Sweeper
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-10-22 08:36 WIB.</sub>
+<sub>Last changed 2026-10-22 14:43 WIB.</sub>

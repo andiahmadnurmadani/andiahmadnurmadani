@@ -9,10 +9,10 @@ nmd@kroombox:~$ neofetch
 /_/ |_/_/  /_/_____/           Location  Indonesia
                                Uptime    4y 5m on GitHub
  +-------------------------+   Repos     32 public, 7 stars, 0 followers
- | :::::::::::  [##]   o o |   Languages TypeScript 32%, Python 18%, JavaScript 18%
+ | :::::::::::  [##]   o o |   Languages TypeScript 32%, JavaScript 19%, Python 18%
  +-------------------------+   Commits   233 in the last 12 months, 418 contributions
  | :::::::::::  [##]   o o |   Streak    0 days now, best 7
- +-------------------------+   Last push TermX on 2026-11-04
+ +-------------------------+   Last push printer-wireless on 2026-11-05
                                Newest    TermX-Desktop (2026-10-21)
 ```
 
@@ -32,16 +32,16 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Repository | Description | Language | Last push |
 |:--|:--|:-:|:-:|
+| **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑11‑05 |
 | **[RAG-JEV](https://github.com/andiahmadnurmadani/RAG-JEV)** | — | `Python` | 2026‑10‑29 |
 | **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑23 |
 | **[TermX-Desktop](https://github.com/andiahmadnurmadani/TermX-Desktop)** | Connect. Automate. Operate. Free, open-source SSH client and ops workspace for macOS, Windows and Linux (Tauri + Rust). | `TypeScript` | 2026‑10‑22 |
 | **[sapawarga](https://github.com/andiahmadnurmadani/sapawarga)** | PKM Hallowarga - web app (React/Vite + Node.js) | `TypeScript` | 2026‑10‑16 |
-| **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑10‑15 |
 | **[pos-app-migrations](https://github.com/andiahmadnurmadani/pos-app-migrations)** | Kroombase schema migrations for pos-app (database only, not application source) | — | 2026‑09‑23 |
 
 ## `$ du -sh --by-language`
 
-<img src="assets/languages.svg" alt="Languages by code size: TypeScript 32%, Python 18%, JavaScript 18%, Kotlin 10%, Go 4%, PHP 4%, CSS 4%, Other 9%" width="100%">
+<img src="assets/languages.svg" alt="Languages by code size: TypeScript 32%, JavaScript 19%, Python 18%, Kotlin 9%, Go 5%, PHP 4%, CSS 4%, Other 9%" width="100%">
 
 ## `$ git log --since=1.year`
 
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-11-05 19:29 WIB.</sub>
+<sub>Last changed 2026-11-06 03:42 WIB.</sub>

@@ -8,12 +8,12 @@ nmd@kroombox:~$ neofetch
  / /|  / /  / / /_/ /          Study     D3 Information Systems, Telkom University
 /_/ |_/_/  /_/_____/           Location  Indonesia
                                Uptime    4y 5m on GitHub
- +-------------------------+   Repos     32 public, 7 stars, 0 followers
- | :::::::::::  [##]   o o |   Languages TypeScript 32%, JavaScript 19%, Python 18%
- +-------------------------+   Commits   233 in the last 12 months, 418 contributions
- | :::::::::::  [##]   o o |   Streak    0 days now, best 7
- +-------------------------+   Last push printer-wireless on 2026-11-05
-                               Newest    TermX-Desktop (2026-10-21)
+ +-------------------------+   Repos     33 public, 7 stars, 0 followers
+ | :::::::::::  [##]   o o |   Languages TypeScript 33%, JavaScript 19%, Python 18%
+ +-------------------------+   Commits   234 in the last 12 months, 420 contributions
+ | :::::::::::  [##]   o o |   Streak    1 day now, best 7
+ +-------------------------+   Last push printer-wireless on 2026-11-06
+                               Newest    kasirku (2026-11-06)
 ```
 
 I run Linux servers, NAS boxes and self-hosted services, and build the tools I wish I had while doing it. Most of what I make ends up open source: an SSH client for Android, a monitoring dashboard, and a small Postgres backend platform.
@@ -32,16 +32,16 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Repository | Description | Language | Last push |
 |:--|:--|:-:|:-:|
-| **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑11‑05 |
+| **[printer-wireless](https://github.com/andiahmadnurmadani/printer-wireless)** | — | `JavaScript` | 2026‑11‑06 |
+| **[kasirku](https://github.com/andiahmadnurmadani/kasirku)** | KasirKu POS - aplikasi kasir React + Vite dengan backend Express + MySQL | `TypeScript` | 2026‑11‑06 |
 | **[RAG-JEV](https://github.com/andiahmadnurmadani/RAG-JEV)** | — | `Python` | 2026‑10‑29 |
 | **[scm-bestari](https://github.com/andiahmadnurmadani/scm-bestari)** | — | `TypeScript` | 2026‑10‑23 |
 | **[TermX-Desktop](https://github.com/andiahmadnurmadani/TermX-Desktop)** | Connect. Automate. Operate. Free, open-source SSH client and ops workspace for macOS, Windows and Linux (Tauri + Rust). | `TypeScript` | 2026‑10‑22 |
 | **[sapawarga](https://github.com/andiahmadnurmadani/sapawarga)** | PKM Hallowarga - web app (React/Vite + Node.js) | `TypeScript` | 2026‑10‑16 |
-| **[pos-app-migrations](https://github.com/andiahmadnurmadani/pos-app-migrations)** | Kroombase schema migrations for pos-app (database only, not application source) | — | 2026‑09‑23 |
 
 ## `$ du -sh --by-language`
 
-<img src="assets/languages.svg" alt="Languages by code size: TypeScript 32%, JavaScript 19%, Python 18%, Kotlin 9%, Go 5%, PHP 4%, CSS 4%, Other 9%" width="100%">
+<img src="assets/languages.svg" alt="Languages by code size: TypeScript 33%, JavaScript 19%, Python 18%, Kotlin 9%, Go 4%, PHP 4%, CSS 4%, Other 9%" width="100%">
 
 ## `$ git log --since=1.year`
 
@@ -52,12 +52,12 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Contributions | Commits | Pull requests | Current streak | Longest streak | Busiest day | Favourite weekday |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **418** | 233 | 1 | 0 days | 7 days | 2026-10-27 (34) | Thursday |
+| **420** | 234 | 1 | 1 day | 7 days | 2026-10-27 (34) | Thursday |
 
 ## `$ tail -f activity.log`
 
 ```text
-2026-11-04 19:53  push     TermX                   4 commits to main
+2026-11-04 19:53  push     TermX                   5 commits to main
 2026-10-29 08:19  push     RAG-JEV                 2 commits to main
 2026-10-23 10:22  push     scm-bestari             1 commit to feat/usability-cms-trace-update
 2026-10-22 14:20  push     scm-bestari             4 commits to feat/usability-cms-trace-update
@@ -104,4 +104,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-11-06 03:42 WIB.</sub>
+<sub>Last changed 2026-11-06 16:29 WIB.</sub>

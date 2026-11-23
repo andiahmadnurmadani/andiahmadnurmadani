@@ -10,7 +10,7 @@ nmd@kroombox:~$ neofetch
                                Uptime    4y 5m on GitHub
  +-------------------------+   Repos     33 public, 11 stars, 0 followers
  | :::::::::::  [##]   o o |   Languages TypeScript 33%, JavaScript 19%, Python 18%
- +-------------------------+   Commits   234 in the last 12 months, 419 contributions
+ +-------------------------+   Commits   234 in the last 12 months, 416 contributions
  | :::::::::::  [##]   o o |   Streak    0 days now, best 7
  +-------------------------+   Last push printer-wireless on 2026-11-06
                                Newest    kasirku (2026-11-06)
@@ -52,7 +52,7 @@ I run Linux servers, NAS boxes and self-hosted services, and build the tools I w
 
 | Contributions | Commits | Pull requests | Current streak | Longest streak | Busiest day | Favourite weekday |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **419** | 234 | 1 | 0 days | 7 days | 2026-10-27 (34) | Wednesday |
+| **416** | 234 | 1 | 0 days | 7 days | 2026-10-27 (34) | Wednesday |
 
 ## `$ tail -f activity.log`
 
@@ -100,4 +100,4 @@ Scan in progress: 35 of 54 clean sectors found, 1 move by 1 player.
 
 <sub>Building systems, writing code, and keeping servers alive. &nbsp;·&nbsp; This README rebuilds itself every hour from the GitHub API (<a href="scripts/build-readme.mjs">scripts/build-readme.mjs</a>).</sub>
 
-<sub>Last changed 2026-11-22 22:27 WIB.</sub>
+<sub>Last changed 2026-11-23 09:53 WIB.</sub>
